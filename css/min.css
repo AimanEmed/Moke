@@ -56,7 +56,7 @@ ul{
   border-radius: 7px;
 }
 .box_landing{
-  background: url(/image/imag_10.png) center/cover no-repeat;
+  background: url(../image/imag_10.png) center/cover no-repeat;
 }
 .angle{
   margin-top: 7px;
@@ -243,7 +243,7 @@ ul{
 /* End Articles */
 /* Start Footer */
 .footer{
-  background: url(/image/imag_12.png) center/cover no-repeat;
+  background: url(../imag_12.png) center/cover no-repeat;
   position: relative;
 }
 .footer .overlay {
