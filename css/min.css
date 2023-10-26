@@ -243,7 +243,7 @@ ul{
 /* End Articles */
 /* Start Footer */
 .footer{
-  background: url(/imag_12.png) center/cover no-repeat;
+  background: url(../image/imag_12.png) center/cover no-repeat;
   position: relative;
 }
 .footer .overlay {
